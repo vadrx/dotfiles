@@ -35,4 +35,8 @@ My modifications
 
 ### NeoVim:
 * Install [deoplete](https://github.com/Shougo/deoplete.nvim);
-* Install [deoplete-clang](https://github.com/zchee/deoplete-clang).
+* Install [deoplete-clang](https://github.com/zchee/deoplete-clang);
+* Install [clang-complete](https://github.com/Rip-Rip/clang_complete).
+```bash
+git clone https://github.com/vadrx/dotfiles".vimmic"
+```

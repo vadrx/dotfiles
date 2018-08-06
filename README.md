@@ -18,11 +18,6 @@ Now install [Oh-My-ZSH](https://github.com/robbyrussell/oh-my-zsh).
 NeoVim
 ---
 ### Install [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim) 
-and run this commands:
- ```bash
-mkdir .config
-mkdir .config/nvim
-```
 ### Install [Vimmic](https://github.com/CharlesGueunet/vimmic/) 
 
 My modifications

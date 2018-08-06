@@ -24,11 +24,6 @@ mkdir .config
 mkdir .config/nvim
 ```
 ### Install [Vimmic](https://github.com/CharlesGueunet/vimmic/) 
-and run this commands:
-```bash
-git clone https://github.com/CharlesGueunet/vimmic.git ".vimmic"
-ln -rsf .vimmic/.vimrc .config/nvim/init.vim
-```
 
 My modifications
 ---
@@ -38,5 +33,5 @@ My modifications
 * Install [deoplete-clang](https://github.com/zchee/deoplete-clang);
 * Install [clang-complete](https://github.com/Rip-Rip/clang_complete).
 ```bash
-git clone https://github.com/vadrx/dotfiles".vimmic"
+git clone https://github.com/vadrx/dotfiles ".vimmic"
 ```
